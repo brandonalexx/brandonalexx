@@ -23,8 +23,6 @@ I just recently started to learn to code. I was able to do my very first project
 
 <p align="left"> <a href="https://www.github.com/brandonalexx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brandon-a-g/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/brandonalexx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonalexx&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
