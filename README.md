@@ -9,7 +9,7 @@ I just recently started to learn to code. I was able to do my very first project
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [brandonalex209@yahoo.com](mailto:brandonalex209@yahoo.com)
 * 🧠  I'm learning NIST Framework, Firewall, and IDS/IPS.
-* 🤝  I'm open to collaborating on anything correalting to cybersecurity!
+* 🤝  I'm open to collaborating on anything correlating to cybersecurity!
 * ⚡  Hi
 
 ### Skills
