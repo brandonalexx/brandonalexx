@@ -10,7 +10,7 @@ I just recently started to learn to code. I was able to do my very first project
 * ✉️  You can contact me at [brandonalex209@yahoo.com](mailto:brandonalex209@yahoo.com)
 * 🧠  I'm learning NIST Framework, Firewall, and IDS/IPS.
 * 🤝  I'm open to collaborating on anything correlating to cybersecurity!
-* ⚡  Hi
+* ⚡  I love doing BJJ (Brazilian Jiu-Jitsu) on my spare time.
 
 ### Skills
 
