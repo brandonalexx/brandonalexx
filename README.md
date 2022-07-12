@@ -7,7 +7,7 @@ Cybersecurity/Software Engineer
 I just recently started to learn to code. I was able to do my very first project not too long ago. I'm hoping to get into the Cybersecurity field as an analyst, engineer, or penetration tester!
 
 * 🌍  I'm based in California
-* ✉️  You can contact me at [brandonalex209@yahoo.com](mailto:brandonalex209@yahoo.com)
+* ✉️  You can contact me via email [brandonalex209@yahoo.com](mailto:brandonalex209@yahoo.com)
 * 🧠  I'm learning NIST Framework, Firewall, and IDS/IPS.
 * 🤝  I'm open to collaborating on anything correlating to cybersecurity!
 * ⚡  I love doing BJJ (Brazilian Jiu-Jitsu) on my spare time.
