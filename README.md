@@ -1,4 +1,4 @@
-Hi 👋 My name is Brandon
+Hello 👋 My name is Brandon
 ========================
 
 Cybersecurity/Software Engineer
